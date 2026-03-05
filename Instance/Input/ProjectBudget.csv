@@ -1,0 +1,17 @@
+Region,Attribute,Time,electricity,heat,CO2f,wind
+Unit,-,Year,,,,
+R1,CommodityPrice,2075,5.456.375.790,0,0.1491,0
+R1,CommodityPrice,2025,3.3,0,0,0
+R1,CommodityPrice,2070,5.632.259.064,0,0.1491,0
+R1,CommodityPrice,2100,9.853.319.564,0,0.1491,0
+R1,CommodityPrice,2045,8.636.197.998,0,0.3216,0
+R1,CommodityPrice,2060,6.547.900.098,0,0.1491,0
+R1,CommodityPrice,2090,5.115.090.065,0,0.1491,0
+R1,CommodityPrice,2035,653.233.098,0,0,0
+R1,CommodityPrice,2085,66.541.300.534,0,0.1491,0
+R1,CommodityPrice,2040,6.534.253.009,0,0,0
+R1,CommodityPrice,2080,8.857.289.943,0,0.1491,0
+R1,CommodityPrice,2065,6.674.789.112,0,0.1491,0
+R1,CommodityPrice,2095,1.130.909.954,0,0.1491,0
+R1,CommodityPrice,2050,3.416.629.863,0,0.1264,0
+R1,CommodityPrice,2055,3.342.028.843,0,0.182,0
