@@ -1,0 +1,4 @@
+ProcessName,RegionName,Time,Level,CO2f,electricity,gas,wind,heat
+Unit,-,Year,-,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
+gassupply1,R1,2024,fixed,1472901872,0,1,0,0
+gassupply2,R1,2024,fixed,9.110.223.276,0,1,0,0

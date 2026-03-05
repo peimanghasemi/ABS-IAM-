@@ -1,0 +1,4 @@
+ProcessName,RegionName,Time,Agent2,Level,Utilization,ScalingSize,efficiency,Fuel,EndUse,Availabiliy year,InterestRate,Type,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,CapacityAddition,Capacity Growth,TotalCapacityLimit
+Unit,-,Year,Retrofit,-,-,PJ,%,-,-,-,-,-,,-,,-,,-,PJ,%,
+gassupply1,R1,2024,1,fixed,0.975,0.000178,93,gas,gas,1,0.2,energy,4.237.896,1,2.751.870.523,1,0.28,1,5,0.4,20
+gassupply2,R1,2024,1,fixed,0.975,0.000178,93,gas,gas,1,0.2,energy,8.166.118,1,5.714.197.071,1,0.28,1,10,0.4,20
