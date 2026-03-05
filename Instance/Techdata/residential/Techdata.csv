@@ -1,0 +1,4 @@
+ProcessName,RegionName,Time,Agent2,Agent4,Agent6,Level,UtilizationFactor,ScalingSize,efficiency,Fuel,EndUse,Availabiliy year,InterestRate,Type,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,CapacityAddition,Capacity Growth,TotalCapacityLimit
+Unit,-,Year,Retrofit,Retrofit,Retrofit,-,-,PJ,%,-,-,-,-,-,,-,,-,,-,PJ,%,
+heatpump,R1,2024,0.3,0.2,0.4,fixed,0.975,0.000164,93,electricity,heat,1,0.2,energy,60,1,40,1,0.28,1,20,0.4,100
+gasboiler,R1,2024,0.3,0.2,0.4,fixed,0.975,0.000164,93,gas,heat,1,0.2,energy,6,1,0.4,1,0.28,1,20,0.4,200
