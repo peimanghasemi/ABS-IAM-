@@ -1,1 +1,4 @@
+AgentShare	Name	AgentNumber	RegionName	Objective1	ObjData1	Objsort1	SearchRule	DecisionMethod	Quantity	Type
+Agent1	A1	1	R1	LCOE	1	TRUE	all	single_objective	1	New
+Agent2	A1	2	R1	LCOE	1	TRUE	all	single_objective	1	Retrofit
 
