@@ -1,6 +1,6 @@
 # ABS-IAM-
 
-(Ongoing Project)
+(Ongoing Project by Python)
 
 Open-source code for an integrated assessment, agent-based simulation framework.
 
